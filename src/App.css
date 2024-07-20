@@ -1,0 +1,26 @@
+/* Reset some default browser styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set basic styles for the body */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    /* color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+    height: 100vh;
+  }
+  
+  /* Center the content in the App */
+
+  
+  /* Style for the main heading */
+  h1 {
+    font-size: 2.5em;
+    color: #007bff;
+  }
+  
