@@ -3,7 +3,6 @@ import "./App.css";
 import "./index.css";
 import HomePage from "./components/homePage";
 import Login from "./components/login";
-// import SearchForm from "./components/SearchForm";
 import { Routes, Route } from "react-router-dom";
 function App() {
   return (
